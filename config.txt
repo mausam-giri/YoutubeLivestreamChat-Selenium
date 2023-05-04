@@ -1,0 +1,4 @@
+user_dir = C:\Users\Giri\AppData\Local\Google\Chrome\User Data
+profile = Profile 5
+comments_file = comments.txt
+cooldown_time = 30
