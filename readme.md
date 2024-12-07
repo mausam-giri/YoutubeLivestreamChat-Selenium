@@ -1,5 +1,11 @@
-It requires user chrome directory location and comments
+# Youtube Livestream Chat - Selenium
 
-comments file location, user directory and profile name saved in the config.txt
+- It requires user Chrome browser directory location
+- Comments must be put in comments.txt separated by new line.
+```
+- Comments File Location, User Directory and Chrome Profile Name must be saved in the config.txt
+```
+- To get desired Chrome Profile data: ```chrome://version``` in Chrome browser
 
-To get chrome profile data: chrome://version in chrome
+| [Update]
+- Question-Answer Pattern Implementation
